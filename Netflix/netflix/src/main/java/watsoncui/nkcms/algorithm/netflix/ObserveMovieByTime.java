@@ -63,6 +63,6 @@ public class ObserveMovieByTime {
 //			// TODO Auto-generated catch block
 //			e.printStackTrace();
 //		}
-//	}
+	}
 
 }

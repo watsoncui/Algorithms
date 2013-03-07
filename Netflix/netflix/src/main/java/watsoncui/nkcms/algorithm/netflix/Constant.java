@@ -7,4 +7,7 @@ public interface Constant {
 	public static final String TRAININGSETDIR = DIR + "training_set/";
 	public static final String PROBETIMELINE = DIR + "probe_timeline/";
 	public static final String TRAININGTIMELINE = DIR + "pure_training_timeline/";
+	
+	public final static double MovieAlpha = 25;
+	public final static double UserAlpha = 10;
 }
